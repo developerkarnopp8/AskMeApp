@@ -1,0 +1,10 @@
+<svg width="520" height="160" viewBox="0 0 520 160" xmlns="http://www.w3.org/2000/svg">
+  <rect width="520" height="160" rx="24" fill="#0F0F14"/>
+  <rect x="24" y="28" width="104" height="76" rx="18" fill="#7C5FE6"/>
+  <polygon points="40,104 24,132 68,104" fill="#7C5FE6"/>
+  <text x="76" y="80" text-anchor="middle" font-family="Georgia,serif" font-size="48" font-weight="700" fill="white">?</text>
+  <text x="152" y="76" font-family="'Segoe UI',Arial,sans-serif" font-size="44" font-weight="700" fill="white" letter-spacing="-1">Ask</text>
+  <text x="226" y="76" font-family="'Segoe UI',Arial,sans-serif" font-size="44" font-weight="700" fill="#7C5FE6" letter-spacing="-1">Me</text>
+  <text x="296" y="76" font-family="'Segoe UI',Arial,sans-serif" font-size="44" font-weight="300" fill="#555566" letter-spacing="-1">App</text>
+  <text x="152" y="112" font-family="'Segoe UI',Arial,sans-serif" font-size="18" fill="#44445A" letter-spacing="4">ASK ANYTHING. GET ANSWERS.</text>
+</svg>
